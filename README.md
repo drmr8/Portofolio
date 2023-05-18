@@ -10,6 +10,7 @@ Here are some of the tools I've worked with:
 * Data Visualization Tools: Tableau, Matplotlib
 * Data Processing Tools: Excel, Pandas
 
-Thanks for taking the time to explore my profile! Please note, I'm currently in the process of building this portfolio. I'll be updating it with new projects and case studies as I complete them.
+Thanks for taking the time to explore my profile! 
 
+Please note, I'm currently in the process of building this portfolio. I'll be updating it with new projects and case studies as I complete them.
 Thank you!
