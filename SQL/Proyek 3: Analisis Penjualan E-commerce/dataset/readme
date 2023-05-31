@@ -1,1 +1,22 @@
-dataset ini menggunakan data palsu yang dibuat menggunakan python 
+Dataset yang digunakan adalah dataset penjualan e-commerce yang berisi informasi tentang transaksi penjualan, produk terjual, jumlah terjual, harga, lokasi pengiriman, dan data pelanggan. Dataset ini terdiri dari dua tabel: "transactions" dan "customers".
+
+Struktur Tabel "transactions":
+
+transaction_id (ID transaksi)
+customer_id (ID pelanggan)
+product_id (ID produk)
+quantity (jumlah produk terjual)
+price (harga per produk)
+date (tanggal transaksi)
+location (lokasi pengiriman)
+
+Struktur Tabel "customers":
+
+customer_id (ID pelanggan)
+name (nama pelanggan)
+email (alamat email pelanggan)
+phone (nomor telepon pelanggan)
+city (kota pelanggan)
+gender (jenis kelamin pelanggan)
+
+catatan: dataset ini menggunakan data palsu yang dibuat menggunakan python 
