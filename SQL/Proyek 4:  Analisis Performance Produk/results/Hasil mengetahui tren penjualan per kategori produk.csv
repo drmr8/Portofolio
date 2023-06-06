@@ -1,0 +1,217 @@
+category,total_sales,sale_month
+Books,483,2020-01
+Electronics,480,2020-01
+Fashion,474,2020-01
+"Health & Beauty",477,2020-01
+Home,511,2020-01
+"Toys & Games",445,2020-01
+Books,497,2020-02
+Electronics,482,2020-02
+Fashion,456,2020-02
+"Health & Beauty",450,2020-02
+Home,468,2020-02
+"Toys & Games",451,2020-02
+Books,459,2020-03
+Electronics,430,2020-03
+Fashion,431,2020-03
+"Health & Beauty",445,2020-03
+Home,439,2020-03
+"Toys & Games",412,2020-03
+Books,415,2020-04
+Electronics,422,2020-04
+Fashion,426,2020-04
+"Health & Beauty",407,2020-04
+Home,409,2020-04
+"Toys & Games",379,2020-04
+Books,538,2020-05
+Electronics,525,2020-05
+Fashion,517,2020-05
+"Health & Beauty",467,2020-05
+Home,532,2020-05
+"Toys & Games",472,2020-05
+Books,530,2020-06
+Electronics,532,2020-06
+Fashion,479,2020-06
+"Health & Beauty",527,2020-06
+Home,491,2020-06
+"Toys & Games",493,2020-06
+Books,461,2020-07
+Electronics,478,2020-07
+Fashion,498,2020-07
+"Health & Beauty",457,2020-07
+Home,474,2020-07
+"Toys & Games",433,2020-07
+Books,552,2020-08
+Electronics,491,2020-08
+Fashion,515,2020-08
+"Health & Beauty",494,2020-08
+Home,479,2020-08
+"Toys & Games",485,2020-08
+Books,463,2020-09
+Electronics,503,2020-09
+Fashion,453,2020-09
+"Health & Beauty",477,2020-09
+Home,428,2020-09
+"Toys & Games",491,2020-09
+Books,466,2020-10
+Electronics,440,2020-10
+Fashion,439,2020-10
+"Health & Beauty",450,2020-10
+Home,435,2020-10
+"Toys & Games",481,2020-10
+Books,531,2020-11
+Electronics,494,2020-11
+Fashion,505,2020-11
+"Health & Beauty",492,2020-11
+Home,515,2020-11
+"Toys & Games",478,2020-11
+Books,500,2020-12
+Electronics,474,2020-12
+Fashion,483,2020-12
+"Health & Beauty",474,2020-12
+Home,444,2020-12
+"Toys & Games",448,2020-12
+Books,504,2021-01
+Electronics,454,2021-01
+Fashion,467,2021-01
+"Health & Beauty",442,2021-01
+Home,453,2021-01
+"Toys & Games",452,2021-01
+Books,441,2021-02
+Electronics,459,2021-02
+Fashion,423,2021-02
+"Health & Beauty",429,2021-02
+Home,438,2021-02
+"Toys & Games",412,2021-02
+Books,469,2021-03
+Electronics,440,2021-03
+Fashion,431,2021-03
+"Health & Beauty",401,2021-03
+Home,440,2021-03
+"Toys & Games",437,2021-03
+Books,480,2021-04
+Electronics,507,2021-04
+Fashion,506,2021-04
+"Health & Beauty",481,2021-04
+Home,491,2021-04
+"Toys & Games",453,2021-04
+Books,525,2021-05
+Electronics,506,2021-05
+Fashion,461,2021-05
+"Health & Beauty",479,2021-05
+Home,495,2021-05
+"Toys & Games",439,2021-05
+Books,492,2021-06
+Electronics,511,2021-06
+Fashion,502,2021-06
+"Health & Beauty",466,2021-06
+Home,502,2021-06
+"Toys & Games",484,2021-06
+Books,486,2021-07
+Electronics,485,2021-07
+Fashion,452,2021-07
+"Health & Beauty",482,2021-07
+Home,456,2021-07
+"Toys & Games",440,2021-07
+Books,543,2021-08
+Electronics,533,2021-08
+Fashion,457,2021-08
+"Health & Beauty",509,2021-08
+Home,474,2021-08
+"Toys & Games",474,2021-08
+Books,507,2021-09
+Electronics,458,2021-09
+Fashion,442,2021-09
+"Health & Beauty",417,2021-09
+Home,453,2021-09
+"Toys & Games",453,2021-09
+Books,462,2021-10
+Electronics,462,2021-10
+Fashion,495,2021-10
+"Health & Beauty",443,2021-10
+Home,500,2021-10
+"Toys & Games",459,2021-10
+Books,470,2021-11
+Electronics,466,2021-11
+Fashion,425,2021-11
+"Health & Beauty",444,2021-11
+Home,420,2021-11
+"Toys & Games",437,2021-11
+Books,427,2021-12
+Electronics,370,2021-12
+Fashion,434,2021-12
+"Health & Beauty",409,2021-12
+Home,456,2021-12
+"Toys & Games",391,2021-12
+Books,495,2022-01
+Electronics,517,2022-01
+Fashion,538,2022-01
+"Health & Beauty",470,2022-01
+Home,483,2022-01
+"Toys & Games",441,2022-01
+Books,436,2022-02
+Electronics,424,2022-02
+Fashion,417,2022-02
+"Health & Beauty",396,2022-02
+Home,417,2022-02
+"Toys & Games",411,2022-02
+Books,489,2022-03
+Electronics,454,2022-03
+Fashion,446,2022-03
+"Health & Beauty",489,2022-03
+Home,463,2022-03
+"Toys & Games",426,2022-03
+Books,448,2022-04
+Electronics,400,2022-04
+Fashion,401,2022-04
+"Health & Beauty",368,2022-04
+Home,424,2022-04
+"Toys & Games",396,2022-04
+Books,426,2022-05
+Electronics,440,2022-05
+Fashion,486,2022-05
+"Health & Beauty",421,2022-05
+Home,450,2022-05
+"Toys & Games",398,2022-05
+Books,408,2022-06
+Electronics,420,2022-06
+Fashion,429,2022-06
+"Health & Beauty",426,2022-06
+Home,434,2022-06
+"Toys & Games",437,2022-06
+Books,446,2022-07
+Electronics,449,2022-07
+Fashion,481,2022-07
+"Health & Beauty",500,2022-07
+Home,434,2022-07
+"Toys & Games",443,2022-07
+Books,571,2022-08
+Electronics,556,2022-08
+Fashion,526,2022-08
+"Health & Beauty",557,2022-08
+Home,550,2022-08
+"Toys & Games",544,2022-08
+Books,443,2022-09
+Electronics,499,2022-09
+Fashion,449,2022-09
+"Health & Beauty",448,2022-09
+Home,494,2022-09
+"Toys & Games",475,2022-09
+Books,518,2022-10
+Electronics,513,2022-10
+Fashion,508,2022-10
+"Health & Beauty",505,2022-10
+Home,475,2022-10
+"Toys & Games",439,2022-10
+Books,440,2022-11
+Electronics,434,2022-11
+Fashion,396,2022-11
+"Health & Beauty",471,2022-11
+Home,457,2022-11
+"Toys & Games",454,2022-11
+Books,476,2022-12
+Electronics,449,2022-12
+Fashion,440,2022-12
+"Health & Beauty",457,2022-12
+Home,472,2022-12
+"Toys & Games",427,2022-12
